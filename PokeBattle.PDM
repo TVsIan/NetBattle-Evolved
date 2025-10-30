@@ -1,0 +1,556 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|NetBattle|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Test
+
+[Package|NetBattle|Configure DAO ISAMs]
+Applicable=No
+
+[Package|NetBattle|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|NetBattle|Files Found]
+
+[Package|NetBattle|Files Released]
+
+[Package|NetBattle|Missing Dependency Information]
+C:\WINDOWS\system32\msvcrt.dll=
+C:\WINDOWS\system32\ccrpprg6.ocx=
+C:\Program Files\Common Files\System\ado\msado26.tlb=
+C:\WINDOWS\system32\wininet.dll=
+
+[Package|NetBattle|Out-of-Date Dependency Information]
+
+[Package|NetBattle|Files Added]
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Server.mdb=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Graphics.mdb=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeDB.mdb=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\victory.mid=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\challenge.mid=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\challenge.wav=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\chat.wav=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\gsbattle.mid=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\lost.mid=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\opening.mid=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\opening.wav=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\rbybattle.mid=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\signon.wav=
+
+[Package|NetBattle|Files Removed]
+
+[Package|NetBattle|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeBattle.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\wininet.dll=Yes
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINDOWS\system32\msjet40.dll=Yes
+C:\WINDOWS\system32\msjter40.dll=Yes
+C:\WINDOWS\system32\msjint40.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\mswstr10.dll=Yes
+C:\WINDOWS\system32\mswdat10.dll=Yes
+C:\WINDOWS\system32\msrd2x40.dll=Yes
+C:\WINDOWS\system32\msrd3x40.dll=Yes
+C:\WINDOWS\system32\msrepl40.dll=Yes
+C:\WINDOWS\system32\msjtes40.dll=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado26.tlb=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\ccrpprg6.ocx=Yes
+C:\WINDOWS\system32\COMCT232.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\CSWSK32.OCX=Yes
+C:\WINDOWS\system32\mfc42.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MCI32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Server.mdb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Graphics.mdb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeDB.mdb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\victory.mid=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\challenge.mid=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\challenge.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\chat.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\gsbattle.mid=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\lost.mid=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\opening.mid=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\opening.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\rbybattle.mid=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\signon.wav=Yes
+
+[Package|NetBattle|Configure Registry Files]
+Applicable=No
+
+[Package|NetBattle|Configure Remote Servers]
+Applicable=No
+
+[Package|NetBattle|Install Locations]
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeBattle.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\wininet.dll=$(WinSysPath)
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINDOWS\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado26.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\ccrpprg6.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\CSWSK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\mfc42.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msvcrt.dll=$(AppPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MCI32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Server.mdb=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Graphics.mdb=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeDB.mdb=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\victory.mid=$(AppPath)\Media
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\challenge.mid=$(AppPath)\Media
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\challenge.wav=$(AppPath)\Media
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\chat.wav=$(AppPath)\Media
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\gsbattle.mid=$(AppPath)\Media
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\lost.mid=$(AppPath)\Media
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\opening.mid=$(AppPath)\Media
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\opening.wav=$(AppPath)\Media
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\rbybattle.mid=$(AppPath)\Media
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\signon.wav=$(AppPath)\Media
+
+[Package|NetBattle|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeBattle.exe=No
+C:\WINDOWS\system32\msvcrt.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Server.mdb=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Graphics.mdb=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeDB.mdb=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\victory.mid=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\challenge.mid=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\challenge.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\chat.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\gsbattle.mid=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\lost.mid=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\opening.mid=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\opening.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\rbybattle.mid=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\signon.wav=No
+
+[Package|NetBattle|Distribution]
+Type=single
+Size=
+Title=Pokémon NetBattle
+
+[Package|NetBattle|IconGroups]
+Group0=Pokémon NetBattle
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|NetBattle|Pokémon NetBattle]
+Icon1=PokeBattle.exe
+Title1=Pokémon NetBattle
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=PokeBattle.exe /SAFE
+Title2=Safe Mode
+StartIn2=$(AppPath)
+Key2=Icon3
+Icon3=PokeBattle.exe SERVER
+Title3=Run a Server
+StartIn3=$(AppPath)
+Key3=Icon4
+
+[Package|NetBattle|Package]
+PackageFolder=C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Test
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle
+ServerSideCab=
+File1=C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Test\setup.exe
+File2=C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Test\Setup.Lst
+File3=C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Test\PokeBattle.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|NetBattle 0.8.41|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Package
+
+[Package|NetBattle 0.8.41|Configure DAO ISAMs]
+Applicable=No
+
+[Package|NetBattle 0.8.41|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|NetBattle 0.8.41|Files Found]
+
+[Package|NetBattle 0.8.41|Files Released]
+
+[Package|NetBattle 0.8.41|Missing Dependency Information]
+
+[Package|NetBattle 0.8.41|Out-of-Date Dependency Information]
+
+[Package|NetBattle 0.8.41|Files Added]
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeDB.mdb=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Server.mdb=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Graphics.mdb=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\victory.mid=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\challenge.mid=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\challenge.wav=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\chat.wav=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\gsbattle.mid=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\lost.mid=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\opening.mid=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\opening.wav=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\rbybattle.mid=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\signon.wav=
+
+[Package|NetBattle 0.8.41|Files Removed]
+
+[Package|NetBattle 0.8.41|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeBattle.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\wininet.dll=Yes
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINDOWS\system32\msjet40.dll=Yes
+C:\WINDOWS\system32\msjter40.dll=Yes
+C:\WINDOWS\system32\msjint40.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\mswstr10.dll=Yes
+C:\WINDOWS\system32\mswdat10.dll=Yes
+C:\WINDOWS\system32\msrd2x40.dll=Yes
+C:\WINDOWS\system32\msrd3x40.dll=Yes
+C:\WINDOWS\system32\msrepl40.dll=Yes
+C:\WINDOWS\system32\msjtes40.dll=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado26.tlb=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\ccrpprg6.ocx=Yes
+C:\WINDOWS\system32\COMCT232.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\CSWSK32.OCX=Yes
+C:\WINDOWS\system32\mfc42.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\msdxm.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeDB.mdb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Server.mdb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Graphics.mdb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\victory.mid=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\challenge.mid=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\challenge.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\chat.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\gsbattle.mid=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\lost.mid=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\opening.mid=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\opening.wav=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\rbybattle.mid=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\signon.wav=Yes
+
+[Package|NetBattle 0.8.41|Configure Registry Files]
+Applicable=No
+
+[Package|NetBattle 0.8.41|Configure Remote Servers]
+Applicable=No
+
+[Package|NetBattle 0.8.41|Install Locations]
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeBattle.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\wininet.dll=$(WinSysPath)
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINDOWS\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado26.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\ccrpprg6.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\CSWSK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\mfc42.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msvcrt.dll=$(AppPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\msdxm.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeDB.mdb=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Server.mdb=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Graphics.mdb=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\victory.mid=$(AppPath)\Media
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\challenge.mid=$(AppPath)\Media
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\challenge.wav=$(AppPath)\Media
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\chat.wav=$(AppPath)\Media
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\gsbattle.mid=$(AppPath)\Media
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\lost.mid=$(AppPath)\Media
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\opening.mid=$(AppPath)\Media
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\opening.wav=$(AppPath)\Media
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\rbybattle.mid=$(AppPath)\Media
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\signon.wav=$(AppPath)\Media
+
+[Package|NetBattle 0.8.41|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeBattle.exe=No
+C:\WINDOWS\system32\msvcrt.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeDB.mdb=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Server.mdb=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Graphics.mdb=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\victory.mid=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\challenge.mid=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\challenge.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\chat.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\gsbattle.mid=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\lost.mid=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\opening.mid=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\opening.wav=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\rbybattle.mid=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Media\signon.wav=No
+
+[Package|NetBattle 0.8.41|Distribution]
+Type=single
+Size=
+Title=Pokémon NetBattle
+
+[Package|NetBattle 0.8.41|IconGroups]
+Group0=HubertWare
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|NetBattle 0.8.41|HubertWare]
+Icon1=PokeBattle.exe
+Title1=NetBattle
+StartIn1=$(AppPath)
+Key1=Icon3
+Icon2=PokeBattle.exe SERVER
+Title2=Run a Server
+StartIn2=$(AppPath)
+Key2=Icon4
+Icon3=PokeBattle.exe /safe
+Title3=Safe Mode
+StartIn3=$(AppPath)
+Key3=Icon5
+
+[Package|NetBattle 0.8.41|Package]
+PackageFolder=C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Package
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle
+ServerSideCab=
+File1=C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Package\setup.exe
+File2=C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Package\Setup.Lst
+File3=C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\Package\PokeBattle.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\DeployWizard
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\system32\DMC2.ocx=
+C:\WINDOWS\system32\OLEGUIDS.TLB=
+C:\WINDOWS\system32\uxtheme.dll=
+C:\WINDOWS\system32\zlib.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\TypeDB.cdb=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\MoveDB.cdb=
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeDB.cdb=
+C:\WINDOWS\system32\bass.dll=
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\windows\system32\uxtheme.dll=
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeBattle.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\wininet.dll=Yes
+C:\WINDOWS\system32\zlib.dll=Yes
+C:\WINDOWS\system32\uxtheme.dll=No
+C:\WINDOWS\system32\OLEGUIDS.TLB=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\Tabctl32.ocx=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\ccrpprg6.ocx=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\WINDOWS\system32\DMC2.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\TypeDB.cdb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\MoveDB.cdb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeDB.cdb=Yes
+C:\WINDOWS\system32\bass.dll=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeBattle.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\wininet.dll=$(WinSysPath)
+C:\WINDOWS\system32\zlib.dll=$(WinSysPath)
+C:\WINDOWS\system32\OLEGUIDS.TLB=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\ccrpprg6.ocx=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DMC2.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\TypeDB.cdb=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\MoveDB.cdb=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeDB.cdb=$(AppPath)
+C:\WINDOWS\system32\bass.dll=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeBattle.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\TypeDB.cdb=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\MoveDB.cdb=No
+C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\PokeDB.cdb=No
+C:\WINDOWS\system32\bass.dll=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Pokémon NetBattle
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Pokémon NetBattle
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Pokémon NetBattle]
+Icon1=PokeBattle.exe
+Title1=Pokémon NetBattle
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\DeployWizard
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle
+ServerSideCab=
+File1=C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\DeployWizard\setup.exe
+File2=C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\DeployWizard\Setup.Lst
+File3=C:\Program Files\Microsoft Visual Studio\VB98\PokeBattle\DeployWizard\PokeBattle.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

@@ -1,0 +1,31 @@
+[
+   uuid(FA1D4B40-A4BC-457b-88A9-5E8EF2B5DF0B),
+   helpstring("Function pointer declarations"),
+   lcid(0x0),
+   version(1.0)
+] 
+library FuncDeclLib
+{
+   importlib("stdole2.tlb");
+   [uuid(FA1D4B41-A4BC-457b-88A9-5E8EF2B5DF0B), odl]
+   interface INBScript: IUnknown
+   {
+      long CallFunc(
+         [in] long EventNum, 
+         [in] long pCancel, 
+         [in] long Source,
+         [in] long Target,
+         [in] LPSTR Arg,
+         [in] long Callback);
+   }
+   [uuid(FA1D4B42-A4BC-457b-88A9-5E8EF2B5DF0B), odl]
+   interface ICallHRESULTNoParams : IUnknown
+   {
+      HRESULT Call();
+   }
+   [uuid(FA1D4B43-A4BC-457b-88A9-5E8EF2B5DF0B), odl]
+   interface ICallVoid : IUnknown
+   {
+      void Void();
+   }
+}
